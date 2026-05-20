@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Cidade Alerta",
-    "slug": "cidade-alerta",
+    "name": "Manutenção urbana",
+    "slug": "manutenourbana",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "cidade-alerta",
+    "scheme": "manutenourbana",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -15,10 +15,10 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.replit.cidadealerta"
+      "bundleIdentifier": "com.manutenourbana.app"
     },
     "android": {
-      "package": "com.replit.cidadealerta"
+      "package": "com.manutenourbana.app"
     },
     "web": {
       "favicon": "./assets/images/icon.png"
